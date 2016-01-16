@@ -10,6 +10,7 @@ export default class Note extends React.Component {
   this.state = {
     editing: false
   };
+  
 }
 
 // Render an individual note
